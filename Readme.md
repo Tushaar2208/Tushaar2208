@@ -57,6 +57,7 @@ Customer retention dashboard focused on retention metrics, churn analysis, and b
 
 ![Excel](https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
 
 🔗 Repository: https://github.com/Tushaar2208/customer-retention-dashboard
 
