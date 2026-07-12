@@ -61,7 +61,7 @@ Analyzed data from **90,189 players** to evaluate how progression gate placement
 ![SciPy](https://img.shields.io/badge/SciPy-111111?style=for-the-badge&logo=scipy&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-111111?style=for-the-badge)
 
-🔗 **Repository:** https://github.com/Tushaar2208/cookie-cats-ab-test
+🔗 **Repository:** https://github.com/Tushaar2208/cookie-cats-ab-testing
 
 ---
 
